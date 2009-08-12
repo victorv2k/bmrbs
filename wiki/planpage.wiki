@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary 0.3版本开发计划随想
 
 = Introduction =
   这个版本目的更多的交流和完善一些觉得不完美之处！
